@@ -1,0 +1,8 @@
+name: mic_test
+description: 4-Channel Microphone Visualizer Matrix
+ports: []
+bricks: []
+devices:
+  - "/dev/snd:/dev/snd"
+group_add:
+  - "audio"
